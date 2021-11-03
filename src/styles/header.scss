@@ -1,5 +1,5 @@
 header.header {
-  background: var(--blue);
+  background: var(--purple);
   padding-top: 2rem;
   
   > div {
@@ -11,5 +11,10 @@ header.header {
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+
+  div img {
+    width: 10rem;
+
   }
 }
